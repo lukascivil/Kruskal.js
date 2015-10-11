@@ -1,5 +1,4 @@
 var _ = require('underscore');
-var dialog = require('dialog');
 var colors = require('colors');
 
 /*
